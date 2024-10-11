@@ -1,6 +1,5 @@
 import './reset.css';
 
-
 function App() {
   return (
     <>
@@ -22,15 +21,22 @@ function App() {
 
             <li className="menu__items">
               <a href="#" className="menu__link">Info</a>
+
             </li>
-
-            <li>Hello</li>
-
           </ul>
         </div>
       </div>
 
+
+      <h1>Commit</h1>
+      <h1>Commit</h1>
+      <h1>Commit</h1>
+      <h1>Commit</h1>
+
     </>
   )
+
+  
 }
 export default App;
+
